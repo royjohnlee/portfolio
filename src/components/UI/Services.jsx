@@ -2,7 +2,7 @@ import React from "react";
 import frontendImg from "../../assets/images/front-end.png";
 import backendImg from "../../assets/images/backend.png";
 import uiImg from "../../assets/images/design.png";
-import appsImg from "../../assets/images/apps.png";
+// import appsImg from "../../assets/images/apps.png";
 import htmlImg from "../../assets/images/html.png";
 import cssImg from "../../assets/images/css-3.png";
 import jsImg from "../../assets/images/js.png";
