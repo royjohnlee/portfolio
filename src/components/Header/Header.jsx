@@ -51,7 +51,7 @@ const Header = () => {
             </span>
 
             <div className="leading-[20px]">
-              <h2 className="text-xl text-smallTextColor font-[700]">Roy John</h2>
+              <h2 className="text-xl text-smallTextColor font-[700]">Roy Lee</h2>
               <p className="text-smallTextColor text-[14px] font-[500]">
                 personal
               </p>

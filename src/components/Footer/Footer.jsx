@@ -14,7 +14,7 @@ const Footer = () => {
             </h2>
             <a href="#contact">
               <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                <i class="ri-mail-line"></i> Hire me
+                <i class="ri-mail-line"></i> Contact Me
               </button>
             </a>
           </div>
@@ -103,7 +103,7 @@ const Footer = () => {
 
                 <div className="leading-[20px]">
                   <h2 className="text-gray-200 font-[500] text-[18px]">
-                    Roy
+                    Roy Lee
                   </h2>
                   <p className="text-gray-400 text-[14px] font-[500]">
                     Personal

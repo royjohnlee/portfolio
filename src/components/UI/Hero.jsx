@@ -33,21 +33,21 @@ const Hero = () => {
             >
               <a href="#contact">
                 <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                  <i class="ri-mail-line"></i> Hire me
+                  <i class="ri-mail-line"></i> Contact me
                 </button>
               </a>
               <a
                 href="https://docs.google.com/document/d/1y1u6tRYVz-smRLS-3mGIGMIBaF1AnENy/edit?usp=sharing&ouid=105969788074328158273&rtpof=true&sd=true"
                 className="text-smallTextColor font-[600] text-[16px] border-b border-solid border-smallTextColor"
               >
-                See Resume <i class="ri-file-line"></i>
+                See resume <i class="ri-file-line"></i>
               </a>
             </div>
 
             <p
               data-aos="fade-left"
               data-aos-duration="1500"
-              className="flex gap-2 text-headingColor mt-12 font-[500] text-[16px] leading-7 sm:pl-14 sm:pr-10"
+              className="flex gap-2 text-headingColor mt-12 font-[500] text-[16px] leading-7 sm:pr-10"
             >
               <span>
                 <i class="ri-apps-2-line"></i>
@@ -55,11 +55,11 @@ const Hero = () => {
               A dynamic and collaborative Full-Stack engineer with a unique background in sales, business, and education. As a team player, I thrive in environments that value open communication, creativity, and innovation. With my effective communication skills, I am able to bridge the gap between technical and non-technical stakeholders, ensuring that everyone is aligned and working towards the same goals.
               <br />
               <br />
-              Based in Los Angeles, California 📍
+              Based in Orange County, California 📍
             </p>
 
-            <div className="flex items-center gap-9 mt-14">
-              <span className="text-smallTextColor text-[15px] font-[600]">
+            <div className="flex items-center gap-5 mt-14">
+              <span className="text-smallTextColor text-[16px] font-[600] sm:pl-6">
                 Follow me:
               </span>
               {/* <span>
