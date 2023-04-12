@@ -5,7 +5,7 @@ import Modal from "./Modal";
 const Portfolio = () => {
   const [nextItems, setNextItems] = useState(6);
   const [portfolios, setPortfolios] = useState(data);
-  // const [selectTab, setSelectTab] = useState("all");
+  const [selectTab, setSelectTab] = useState("all");
   const [showModal, setShowModal] = useState(false);
   const [activeID, setActiveID] = useState(null);
 
@@ -44,7 +44,7 @@ const Portfolio = () => {
             </h3>
           </div>
 
-          {/* <div className="flex gap-3">
+          <div className="flex gap-3">
             <button
               onClick={() => setSelectTab("all")}
               className="text-smallTextColor border border-solid border-smallTextColor py-2 px-4 rounded-[8px]"
@@ -63,7 +63,7 @@ const Portfolio = () => {
             >
               UX Design
             </button>
-          </div> */}
+          </div>
         </div>
 
         <div className="flex items-center gap-4 flex-wrap mt-12">
