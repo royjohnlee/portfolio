@@ -13,10 +13,10 @@ const handleSubmit = () => {
 
 if (submitted) {
     return (
-      <div className="w-full mt-8 md:mt-0 md:w-1/2 sm:h-[450px] lg:flex items-center bg-indigo-100 px-4 lg:px-8 py-8">
-        <h1>Thanks!</h1>
-        <br />
-        <div>We'll be in touch soon.</div>
+      <div className="w-full mt-10 md:mt-0 md:w-full sm:h-[450px] lg:flex items-center bg-indigo-100 px-4 lg:px-8 py-8 text-[23px]">
+        <h1>Thanks!
+          <br />
+           We'll be in touch soon.</h1>
       </div>
     );
   }
