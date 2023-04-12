@@ -108,7 +108,7 @@ const Header = () => {
             type="button"
             onClick={(e) => {
               e.preventDefault();
-              window.location.href='https://calendly.com/royjohnlee';
+              window.location.href='https://calendly.com/royjohnlee/30min';
               }}
             >
               <i class="ri-send-plane-line"></i> Let's Talk
