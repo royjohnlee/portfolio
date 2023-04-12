@@ -22,7 +22,7 @@ const Hero = () => {
               className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5 "
             >
               I'm Roy John Lee <br />
-              Front-End Developer
+              Full-Stack Developer
             </h1>
 
             <div
@@ -52,7 +52,7 @@ const Hero = () => {
               <span>
                 <i class="ri-apps-2-line"></i>
               </span>
-              A dynamic and collaborative Front-End Developer with a unique background in sales, business, and education. As a team player, I thrive in environments that value open communication, creativity, and innovation. With my effective communication skills, I am able to bridge the gap between technical and non-technical stakeholders, ensuring that everyone is aligned and working towards the same goals.
+              A dynamic and collaborative Full-Stack Developer with a unique background in sales, business, and education. As a team player, I thrive in environments that value open communication, creativity, and innovation. With my effective communication skills, I am able to bridge the gap between technical and non-technical stakeholders, ensuring that everyone is aligned and working towards the same goals.
               <br />
               <br />
               Based in Orange County, California 📍
