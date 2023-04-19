@@ -37,7 +37,9 @@ const Hero = () => {
                 </button>
               </a>
               <a
-                href="https://docs.google.com/document/d/1y1u6tRYVz-smRLS-3mGIGMIBaF1AnENy/edit?usp=sharing&ouid=105969788074328158273&rtpof=true&sd=true"
+                // href="src/assets/res/res.pdf"
+                href="https://drive.google.com/file/d/11thz1mK2fjyzsa_2AEnEVG7bz8gpRbMt/view?usp=share_link"
+                download
                 className="text-smallTextColor font-[600] text-[16px] border-b border-solid border-smallTextColor"
               >
                 See resume <i class="ri-file-line"></i>
@@ -100,7 +102,7 @@ const Hero = () => {
           {/* ========= hero img ===========*/}
           <div className="basis-1/3 mt-10 sm:mt-0">
             <figure className="flex items-center justify-center">
-              <img src={meImg} alt="" className='rounded-full'/>
+              <img src={meImg} alt="" className='rounded-full' />
             </figure>
           </div>
           {/* ========= hero img  end ===========*/}
