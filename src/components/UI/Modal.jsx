@@ -36,12 +36,18 @@ const Modal = ({ activeID, setShowModal }) => {
               </span>
             ))}
           </div>
-
-          <a href={portfolio.siteUrl}>
-            <button className="bg-primaryColor text-white py-2 px-4 my-8 rounded-[8px] font-[500] hover:bg-headingColor ease-in duration-300">
-              Live Site
-            </button>
-          </a>
+          <div className="flex space-x-2">
+            <a href={portfolio.siteUrl1}>
+              <button className="bg-primaryColor text-white py-2 px-4 my-8 rounded-[8px] font-[500] hover:bg-headingColor ease-in duration-300">
+                Live Site
+              </button>
+            </a>
+            <a href={portfolio.siteUrl2}>
+              <button className="bg-primaryColor text-white py-2 px-4 my-8 rounded-[8px] font-[500] hover:bg-headingColor ease-in duration-300">
+                Git Hub
+              </button>
+            </a>
+          </div>
         </div>
 
         <button
