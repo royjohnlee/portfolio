@@ -38,7 +38,7 @@ const Hero = () => {
               </a>
               <a
                 // href="src/assets/res/res.pdf"
-                href="https://drive.google.com/file/d/11thz1mK2fjyzsa_2AEnEVG7bz8gpRbMt/view?usp=share_link"
+                href="https://docs.google.com/document/d/e/2PACX-1vSbnjpG7E04oK5fc2yrpRUSBe6YjCnsXRiFD7enRhlDixUZP_iHyhgoP9ixTmbQUg/pub"
                 download
                 className="text-smallTextColor font-[600] text-[16px] border-b border-solid border-smallTextColor"
               >
