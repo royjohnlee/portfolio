@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import data from "../../assets/data/portfolioData";
 import Modal from "./Modal";
 
+
 const Portfolio = () => {
   const [nextItems, setNextItems] = useState(6);
   const [portfolios, setPortfolios] = useState(data);

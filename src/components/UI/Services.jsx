@@ -61,7 +61,6 @@ const Services = () => {
                         <img src={cssImg} alt="" className="flex w-[30px]"/>
                         <img src={jsImg} alt="" className="flex w-[30px]"/>
                         <img src={reactImg} alt="" className="flex w-[30px]"/>
-                        <img src={pythonImg} alt="" className="flex w-[30px]"/>
                         <img src={bootstrapImg} alt="" className="flex w-[30px]"/>
 
                         </p>
@@ -95,6 +94,7 @@ const Services = () => {
                         <p className="flex items-center justify-evenly text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
 
                         <img src={nodejsImg} alt="" className="flex w-[40px]"/>
+                        <img src={pythonImg} alt="" className="flex w-[40px]"/>
                         <img src={mongodbImg} alt="" className="flex w-[40px]"/>
                         <img src={postgreSQLImg} alt="" className="flex w-[35px]"/>
                         <img src={expressjsImg} alt="" className="flex w-[35px]"/>

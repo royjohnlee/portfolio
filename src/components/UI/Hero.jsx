@@ -22,7 +22,7 @@ const Hero = () => {
               className="text-headingColor font-[800] text-[1.8rem] sm:text-[40px] leading-[35px] sm:leading-[46px] mt-5 "
             >
               I'm Roy John Lee <br />
-              Full-Stack Developer
+              Software Developer
             </h1>
 
             <div
@@ -38,9 +38,9 @@ const Hero = () => {
               </a>
               <a
                 // href="src/assets/res/res.pdf"
-                href="https://docs.google.com/document/d/e/2PACX-1vSbnjpG7E04oK5fc2yrpRUSBe6YjCnsXRiFD7enRhlDixUZP_iHyhgoP9ixTmbQUg/pub"
-                download
+                a href="/RoyResume.pdf" 
                 className="text-smallTextColor font-[600] text-[16px] border-b border-solid border-smallTextColor"
+                download
               >
                 See resume <i class="ri-file-line"></i>
               </a>
@@ -54,7 +54,7 @@ const Hero = () => {
               <span>
                 <i class="ri-apps-2-line"></i>
               </span>
-              A dynamic and collaborative Full-Stack Developer with a unique background in sales, business, and education. As a team player, I thrive in environments that value open communication, creativity, and innovation. With my effective communication skills, I am able to bridge the gap between technical and non-technical stakeholders, ensuring that everyone is aligned and working towards the same goals.
+              A dynamic and collaborative Software Developer with a unique background in sales, business, and education. As a team player, I thrive in environments that value open communication, creativity, and innovation. With my effective communication skills, I am able to bridge the gap between technical and non-technical stakeholders, ensuring that everyone is aligned and working towards the same goals.
               <br />
               <br />
               Based in Orange County, California 📍
@@ -110,7 +110,7 @@ const Hero = () => {
           <div className="md:basis-1/5 flex justify-between text-center mt-10 flex-wrap gap-3 md:mt-0 md:flex-col md:justify-end md:text-end">
             <div className="mb-10">
               <h2 className="text-headingColor font-[700] text-[32px]">
-                <CountUp start={0} end={4} duration={2} suffix="+" />
+                <CountUp start={0} end={3} duration={2} suffix="+" />
               </h2>
               <h4 className="text-headingColor font-[600] text-[18px]">
                 Years of Experience
