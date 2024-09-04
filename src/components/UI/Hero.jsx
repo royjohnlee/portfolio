@@ -37,8 +37,7 @@ const Hero = () => {
                 </button>
               </a>
               <a
-                // href="src/assets/res/res.pdf"
-                a href="/RoyResume.pdf" 
+                a href="/RoyAugResume.pdf" 
                 className="text-smallTextColor font-[600] text-[16px] border-b border-solid border-smallTextColor"
                 download
               >
